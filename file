@@ -1,4 +1,4 @@
-print ("Hello world")
-print ("Good morning for everyone!") 
-print ("This string will be removed")
-print ("Damm 3rd string")
+print ("Hello world");
+print ("Good morning for everyone!"); 
+print ("This string will be removed");
+print ("Damm 3rd string");
